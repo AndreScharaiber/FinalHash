@@ -10,4 +10,4 @@ Na classe de HashMultiplicação, eu utilizo a multiplicação de (A * K), retor
 Na classe de HashDobramento, a chave é particionada em blocos de 3 digitos, após isso, são somados e aplicados a h(k) = soma mod M.  
 
 CSV: https://docs.google.com/spreadsheets/d/1CPBwcch2bPraJh8Vg1aF3BjBi8vCP6KumtBWEkV8eTg/edit?usp=sharing
-YOUTUBE: 
+YOUTUBE: https://youtu.be/cYqOQQGVq5c
